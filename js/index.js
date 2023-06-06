@@ -1,5 +1,5 @@
-const api_path = "shun11023/";
-const url = "https://livejs-api.hexschool.io/api/livejs/v1/customer/shun11023/";
+const api_path = "archer/";
+const url = "https://livejs-api.hexschool.io/api/livejs/v1/customer/archer/";
 
 // button
 const productList = document.querySelector(".productWrap");

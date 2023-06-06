@@ -4,8 +4,8 @@ const loading = document.querySelector(".loading");
 
 // data
 const url =
-  "https://livejs-api.hexschool.io/api/livejs/v1/admin/shun11023/orders/";
-const config = { headers: { authorization: "su60t3pBasNH0EkuPPzpZIZ1jUG2" } };
+  "https://livejs-api.hexschool.io/api/livejs/v1/admin/archer/orders/";
+const config = { headers: { authorization: "opfUpQeoZiMQ5Cv30hm1eCAbBZY2" } };
 let data;
 
 function init() {
